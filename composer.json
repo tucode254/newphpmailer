@@ -1,0 +1,12 @@
+{
+    "name": "dancan/new_phpmailer",
+    "authors": [
+        {
+            "name": "ngarawakimani",
+            "email": "dancankimani70@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
